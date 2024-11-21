@@ -2,6 +2,8 @@
 This study explores NYC’s 311 Service Request system to predict resolution times, improving municipal services. Using machine learning, it evaluates factors like request type, location, and agency to aid decision-making. Insights aim to optimize resources, enhance responsiveness, and improve urban living through data-driven governance strategies.
 
 
+Data set : https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data 
+
 I.	Project Overview	
 
 
